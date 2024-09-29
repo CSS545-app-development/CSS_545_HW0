@@ -1,12 +1,12 @@
-1.) Intended platform for final project (e.g. Android, iOS)
-    Intend to work on Android platform
+1.) Intended platform for the final project (e.g. Android, iOS)
+    Intend to work on the Android platform
 
 2.) Intended framework/programming language for your final project (e.g. Kotlin, Swift)
-    Preferred programming language Java
+    My preferred programming language is Java
 
 3.) Whether you want to explore cross-platform development
     I prefer to focus on Android development and do not wish to pursue cross-platform development at this time. 
     
 4.) Include a brief explanation for your selections
-    I want to develop a food recipes app because I enjoy cooking. This project lets me use my interest in food and my technical skills together. Initially, I       want to focus on Android, so that I can create a better experience for Android users.
+    I want to develop a food recipe app because I enjoy cooking. This project allows me to use my interest in food and my technical skills together. Initially, I          want to focus on Android to create a better experience for Android users.
     
